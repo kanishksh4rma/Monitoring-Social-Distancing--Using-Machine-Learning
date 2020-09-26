@@ -17,12 +17,12 @@
 ` ***to run your social distance detection project***
 
 #### After you run the last line of command,a window will pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
-![Output avi file](https://github.com/kanishksh4rma/Monitoring-Social-Distancing--Using-Machine-Learning/blob/master/output_file.avi)
+![Output avi file](https://github.com/kanishksh4rma/Monitoring-Social-Distancing--Using-Machine-Learning/blob/master/output.mp4)
 
 # For GPU:
 You can run the same code at your local machine if you have a GPU or  in Google Collab (just select "GPU" as Runtime Type).
 
 ## Contacts:
 
-* **Created by: [Kanishk Sharma](https://github.com/kanishksh4rma) **
-* **LinkedIn: [Kanishk Sharma](https://www.linkedin.com/in/kanishksh4rma/)**
+> **Created by: [Kanishk Sharma](https://github.com/kanishksh4rma)**
+> **LinkedIn: [Kanishk Sharma](https://www.linkedin.com/in/kanishksh4rma/)**
