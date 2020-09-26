@@ -1,0 +1,2 @@
+# Monitoring-Social-Distancing--Using-Machine-Learning
+Social-distancing is an important way to slow down the spread of infectious diseases. People are asked to limit their interactions with each other, reducing the chances of the disease being spread with physical or close contact. In the past decade, AI/Deep Learning has shown promising results on a number of daily life problems. Various daily life tasks have been automated with the help of AI. In this project we will combine deep learning and computer vision to monitor social distancing.
